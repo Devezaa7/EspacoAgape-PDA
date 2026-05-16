@@ -1,0 +1,21 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+:root {
+  --nude-claro: #f9f3ee;
+  --nude-medio: #ede3d8;
+  --nude-escuro: #c8a98a;
+  --dourado: #b8904a;
+  --dourado-claro: #d4aa6a;
+  --marrom: #5c3d2e;
+  --marrom-claro: #8b6553;
+  --branco: #fff;
+  --texto: #3a2a20;
+  --texto-muted: #9a7d6e;
+  --ff-titulo: 'Playfair Display', serif;
+  --ff-corpo: 'Lato', sans-serif;
+}
+html { scroll-behavior: smooth; }
+body { font-family: var(--ff-corpo); background: var(--branco); color: var(--texto); overflow-x: hidden; }
+@keyframes fadeUp { from{opacity:0;transform:translateY(24px)} to{opacity:1;transform:translateY(0)} }
+@keyframes waPulse { 0%,100%{box-shadow:0 4px 20px rgba(37,211,102,.4)} 50%{box-shadow:0 4px 30px rgba(37,211,102,.7)} }
+@keyframes pop { 0%{transform:scale(0)} 80%{transform:scale(1.1)} 100%{transform:scale(1)} }
+@keyframes shimmer { 0%{background-position:200% center} 100%{background-position:-200% center} }
