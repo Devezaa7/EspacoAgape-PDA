@@ -2,6 +2,8 @@
 
 > Landing page desenvolvida para o **Espaço Ágape**, estúdio de estética localizado na **Barra da Tijuca, Rio de Janeiro**. Projeto construído com React + Vite, focado em conversão e experiência do usuário.
 
+🌐 **Deploy:** [espa-o-gape-projeto-pda.vercel.app](https://espa-o-gape-projeto-pda.vercel.app/)
+
 ---
 
 ## ✨ Sobre o projeto
@@ -74,7 +76,7 @@ espaco-agape/
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/espaco-agape.git
+git clone https://github.com/Devezaa7/Espa-o--gape-PROJETO-PDA-.git
 
 # Entre na pasta
 cd espaco-agape
@@ -137,9 +139,12 @@ const NUM = '5521999999999'
 
 ## 📦 Deploy
 
-O projeto pode ser facilmente publicado em:
+O projeto está publicado na Vercel:
 
-- **[Vercel](https://vercel.com)** — recomendado, deploy automático pelo GitHub
+- 🌐 **[espa-o-gape-projeto-pda.vercel.app](https://espa-o-gape-projeto-pda.vercel.app/)**
+
+Também pode ser publicado em:
+
 - **[Netlify](https://netlify.com)** — arraste a pasta `/dist` e pronto
 - **[GitHub Pages](https://pages.github.com)** — com a lib `gh-pages`
 
