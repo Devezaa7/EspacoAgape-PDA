@@ -151,4 +151,4 @@ Projeto desenvolvido para fins educacionais.
 
 ---
 
-<p align="center">Estudar faz parte da evolução do mundo! 💡💡💡/p
+Estudar faz parte da evolução do mundo! 💡💡💡
